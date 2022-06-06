@@ -1,4 +1,4 @@
-# ToDOList-Web_App UI
+# Expense-Tracker-Web_App UI
 
 ![](/UI.png)
 # Getting Started with Create React App
